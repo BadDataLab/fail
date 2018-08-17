@@ -3,9 +3,9 @@
 The FAIL model is a framweork for evaluating adversarial attacks across scenarios with limited levels of knowledge.
 
 # Contributors 
-Yigitcan Kaya
-Radu Marginean
-Octavian Suciu
+* Yigitcan Kaya
+* Radu Marginean
+* Octavian Suciu
 
 # Citing this work
 > @inproceedings {217486,
