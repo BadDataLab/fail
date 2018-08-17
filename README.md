@@ -2,6 +2,15 @@
 
 The FAIL model is a framweork for evaluating adversarial attacks across scenarios with limited levels of knowledge.
 
+# Installation
+
+Tested on Python 3.6.5 with the libraries versions specified in requirements.txt
+
+# Usage
+
+Currently, only white-box jsma is functioning:
+> jsma_script.py
+
 # Contributors 
 * Yigitcan Kaya
 * Radu Marginean
